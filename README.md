@@ -1,1 +1,2 @@
-# online-movie-ticket-booking-
+# movie_ticket
+Online Movie ticket booking system php project
